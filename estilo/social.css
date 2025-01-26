@@ -26,4 +26,9 @@ a:houver {
     background-color: blue;
 }
 
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
+
 
