@@ -54,6 +54,12 @@ section#redes-sociais img:hover {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.473);
     transition: transform 0.3s; border: 1s;
 }
+@media screen and (max-width:768px){
+    .produto-container{
+    width:100%;
+    flex-direction:column;
+    }
+    }
 
     
 
